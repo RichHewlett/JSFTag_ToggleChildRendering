@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="lib" path="C:/Apps/JSF/javax.faces-api-2.2-FINAL/javax.faces-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Apps/JSF/javax.faces-api-2.2-FINAL/javax.faces-api-2.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Apps/JSF/javax.faces-api-2.2-FINAL/javax.faces-api-2.2-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
