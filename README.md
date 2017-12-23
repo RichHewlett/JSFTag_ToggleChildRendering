@@ -14,3 +14,4 @@ The hello.xhtml page shows the usage of this example custom tag (see below) and 
 
 The actual implementation of the custom tag is in CustomTag.java where the CustomTag class extends from the UIComponentBase JSF class. In this simple example the tag reads a showChildren property to determine whether to display child elements however you'll probably want to change this logic to something more useful for your purposes. One example where this Tag would be useful is for Feature Toggling (via a framework like FF4J). Implement a check in this code to determine a toggle on/off position and then choose to render the elements under this tag or not. 
 
+For a companion blog post for this code see https://richhewlett.com/2017/12/23/a-custom-jsf-tag-lib-for-toggling-child-elements/ 
